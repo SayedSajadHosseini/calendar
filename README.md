@@ -1,6 +1,7 @@
 # Dayn-Calendar---js
 
 A simple daynamic JavaScript calendar.
+![Screenshot 2023-01-05 at 16 43 46](https://user-images.githubusercontent.com/37949904/210822924-48978690-c527-481c-90eb-f70617ca3340.png)
 
 ## Installation
 
