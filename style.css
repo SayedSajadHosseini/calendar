@@ -9,10 +9,11 @@
 }
 body {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #9B59B6;
+    background: rgb(45, 43, 82);
 }
 .wrapper{
     width: 450px;
@@ -94,5 +95,17 @@ header .icons span:last-child{
     background: #f2f2f2;
 }
 .days li.active::before {
-    background: #9B59B6;
+    background: rgb(148, 138, 208);
+}
+
+.creator{
+    background: rgba(255, 255, 255, .5);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.creator a{
+    text-decoration: none;
+    color: #fff;
 }
